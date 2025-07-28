@@ -2,18 +2,18 @@
 - Họ tên sinh Viên : Trần Nghiêm Nhật Thiện, Bùi Hữu Tài, Lưu Võ Phương Mai, Nguyễn Hoàng Long
 - Môn Học: Nhập Môn Xử Lý Ảnh Số
 - Giảng viên: TS.Đỗ Hữu Quân
-# 🚀 YOLOv5 - Nhận diện đối tượng thời gian thực
+#  YOLOv5 - Nhận diện đối tượng thời gian thực
 
-## 📌 Tổng quan dự án
+##  Tổng quan dự án
 
 Dự án sử dụng YOLOv5 (You Only Look Once phiên bản 5) để thực hiện nhận diện đối tượng trong ảnh, video và nguồn webcam. Đây là một mô hình học sâu nổi tiếng nhờ tốc độ nhanh và độ chính xác cao, phù hợp cho các ứng dụng AI, giám sát an ninh, ô tô tự lái và nhiều hơn nữa.
 
-## ✨ Tính năng chính
+##  Tính năng chính
 
 - Nhận diện đối tượng từ:
-  - 📷 Ảnh tĩnh
-  - 🎞️ Video (.mp4, .avi, ...)
-  - 🎥 Webcam thời gian thực (`--source 0`)
+  -  Ảnh tĩnh
+  -  Video (.mp4, .avi, ...)
+  -  Webcam thời gian thực (`--source 0`)
 - Hỗ trợ nhiều mô hình: yolov5s, yolov5m, yolov5l, yolov5x
 - Lưu kết quả nhận diện: bounding box, nhãn, độ tự tin
 - Khả năng tùy chỉnh ngưỡng và kích thước hình ảnh đầu vào
